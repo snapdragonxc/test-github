@@ -1,2 +1,2 @@
-master has changed master
-testing branch
+master has changed
+testing branch has changed
